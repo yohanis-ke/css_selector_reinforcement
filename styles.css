@@ -1,0 +1,14 @@
+p{
+  color: yellow;
+
+}
+
+a:hover{
+   color: red;
+}
+h1{
+  font-size: 40px;
+}
+li{
+  display: inline-block;
+}
